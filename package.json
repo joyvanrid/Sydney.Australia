@@ -1,0 +1,18 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "simple bookstore app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "^2.6.1",
+    "express": "*",
+    "forms": "^1.3.0",
+    "mongoose": "*"
+  },
+  "author": "joy van rid",
+  "license": "ISC"
+}
